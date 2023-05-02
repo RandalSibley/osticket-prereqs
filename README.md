@@ -37,7 +37,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 In this video, I will be installing osTicket onto a virtual machine created in Azure. I will first begin by creating my resources in Azure, which include a resource group, and a virtual machine. I will then log into the VM using remote desktop and begin installation of all pre-requisite software. I will then install osTicket software and begin setting up the Helpdesk. Lastly, I will install HeidiSQL to complete installation of osTicket.
 
 </p>
-<br https://youtu.be/MNgaYilYu2A />
+<br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
