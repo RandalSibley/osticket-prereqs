@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.  In this video, I will be installing osTicket onto a virtual machine created in Azure. I will first begin by creating my resources in Azure, which include a resource group, and a virtual machine. I will then log into the VM using remote desktop and begin installation of all pre-requisite software. I will then install osTicket software and begin setting up the Helpdesk. Lastly, I will install HeidiSQL to complete installation of osTicket.<br />
 
 
 <h2>Video Demonstration</h2>
